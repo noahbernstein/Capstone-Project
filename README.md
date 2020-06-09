@@ -11,3 +11,10 @@ I scraped the Airbnb website using Selenium, gathering information such as revie
 
 ## Observations and improvements
 ### Approach
+Scraping Airbnb was very challenging, for several different reasons. Firstly, the layout of the website changes every couple of weeks. This meant that if all the scraping wasn't done within a short window, the datasets would vary (eg. at one point, information on number of amenities was present on the page, and other times it wasn't). It also meant that I couldn't get all the information I initially wanted for each listing, but this is something that can be improved upon with more time. Secondly, Selenium was challenging to use, one reason being that it takes a lot of time, since it mimics user actions.
+
+### Data
+Although I had enough data to use for modelling, increasing the volume of data is always helpful, and would improve the accuracy of the results. This can be done with more time, and is something I will look into doing.
+
+### NLP approaches
+Whilst I used TF-IDF vectorisation, which was successful in highlighting the differences in reviews, there are several more nuances methods of text analysis that I intend to use at some point, but did not get the chance to fully explore.
