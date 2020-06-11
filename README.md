@@ -1,5 +1,11 @@
 # Capstone-Project
 
+## Links to specific stages of the project
+1. https://github.com/noahbernstein/Capstone-Project/blob/master/Scraping.ipynb
+2. https://github.com/noahbernstein/Capstone-Project/blob/master/Cleaning.ipynb
+3. https://github.com/noahbernstein/Capstone-Project/blob/master/EDA.ipynb
+4. https://github.com/noahbernstein/Capstone-Project/blob/master/Modelling.ipynb
+
 ## Goals of the project
 To see whether it would be possible to accurately predict the price of Airbnb listings, with the idea of being used to guide pricing for Airbnb hosts.
 
