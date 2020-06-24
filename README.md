@@ -16,7 +16,7 @@ I loved scraping when I first learned it, and so wanted to test myself with a ha
 I scraped the Airbnb website using Selenium, gathering information such as reviews, rating, and a target of price. I then cleaned the data, engineering several different features. Finally, I predicted the price (per night), using regression models, with a focus on using NLP on the reviews that people have left.
 
 ## Results
-I found that the best model used was the Gradient Boosting Regressor, which yielded a score of 0.706, whilst the most important coefficients were the number of guests, beds, and different bigrams within the reviews.
+I found that the best model used was the Gradient Boosting Regressor, which yielded a score of 0.706, whilst the most important coefficients were the number of guests, beds, and different bigrams within the reviews. The largest coefficients within the reviews were 'quick helpful', 'comfortable beds', and 'amazing hospitality', which gives hosts an idea of what the qualities are that people look for, which correspond to a higher price.
 
 ## Observations and improvements
 ### Approach
