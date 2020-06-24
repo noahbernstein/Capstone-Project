@@ -5,6 +5,7 @@
 2. [Cleaning](https://github.com/noahbernstein/Capstone-Project/blob/master/Cleaning.ipynb)
 3. [EDA](https://github.com/noahbernstein/Capstone-Project/blob/master/EDA.ipynb)
 4. [Modelling](https://github.com/noahbernstein/Capstone-Project/blob/master/Modelling.ipynb)
+5. [Clean Dataset](https://github.com/noahbernstein/Capstone-Project/blob/master/clean_lettings_with_price)
 
 ## Goals of the project
 To see whether it would be possible to accurately predict the price of Airbnb listings, with the idea of being used to guide pricing for Airbnb hosts.
